@@ -1,0 +1,58 @@
+ImageService任务领取内容:
+{
+    "data": {
+        "currentWorkingData": [],
+        "dataType": {
+            "attributes": [],
+            "config": [],
+            "coverUrl": null,
+            "createTime": "2018-05-17 08:51:38",
+            "creator": {
+                "key": "18930"
+            },
+            "dataTypeCategory": null,
+            "dataTypeId": 302,
+            "dataTypeName": "imageServiceUrl",
+            "des": "",
+            "dim": 0,
+            "exts": null,
+            "key": 215,
+            "name": "serviceUrl",
+            "owner": {
+                "key": "146"
+            }
+        },
+        "defaultDir": "ftp://10.16.20.14/dcpp_0625_1/ImageService_2245/69fab24e-2803-4d70-9c67-fa6d60a80f54",
+        "inputData": [],
+        "key": "69fab24e-2803-4d70-9c67-fa6d60a80f54",
+        "procedureName": "ImageService",
+        "requiredResults": 1
+    },
+    "message": "执行成功!",
+    "status": 200,
+    "timestamp": 1529906371246
+}
+ImageService任务提交内容:
+[
+    {
+        "consumed": 24,
+        "datas": [
+            {
+                "content": [
+                    "http://10.16.20.14:6080/arcgis/rest/services/SZ_SND_432/MapServer/WMTS/1.0.0/WMTSCapabilities.xml",
+                    "http://10.16.20.14:6080/arcgis/rest/services/SZ_SND_321/MapServer/WMTS/1.0.0/WMTSCapabilities.xml"
+                ],
+                "label": "ImageServiceSubmit",
+                "workload": 2
+            }
+        ],
+        "description": "ImageServiceSubmit",
+        "taskId": "69fab24e-2803-4d70-9c67-fa6d60a80f54",
+        "workload": 100
+    },
+    200
+]
+==============ImageService任务执行结束。=================
+
+
+

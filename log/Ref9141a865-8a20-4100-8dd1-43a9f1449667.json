@@ -1,0 +1,57 @@
+Ref任务领取内容:
+{
+    "data": {
+        "currentWorkingData": [],
+        "dataType": {
+            "attributes": [],
+            "config": [],
+            "coverUrl": null,
+            "createTime": "2018-05-31 18:10:31",
+            "creator": {
+                "key": "18930"
+            },
+            "dataTypeCategory": null,
+            "dataTypeId": 299,
+            "dataTypeName": "c-url链接地址",
+            "des": "",
+            "dim": 0,
+            "exts": null,
+            "key": 223,
+            "name": "ref",
+            "owner": {
+                "key": "146"
+            }
+        },
+        "defaultDir": "ftp://10.16.20.14/dcpp_0625_1/Ref_2243/9141a865-8a20-4100-8dd1-43a9f1449667",
+        "inputData": [],
+        "key": "9141a865-8a20-4100-8dd1-43a9f1449667",
+        "procedureName": "Ref",
+        "requiredResults": 1
+    },
+    "message": "执行成功!",
+    "status": 200,
+    "timestamp": 1529906266249
+}
+Ref任务提交内容:
+[
+    {
+        "consumed": 24,
+        "datas": [
+            {
+                "content": [
+                    "ftp://10.16.20.14/dcpp_0625_1/Ref_2243/9141a865-8a20-4100-8dd1-43a9f1449667/Ref.zip"
+                ],
+                "label": "RefSubmit",
+                "workload": 2
+            }
+        ],
+        "description": "RefSubmit",
+        "taskId": "9141a865-8a20-4100-8dd1-43a9f1449667",
+        "workload": 100
+    },
+    200
+]
+==============Ref任务执行结束。=================
+
+
+

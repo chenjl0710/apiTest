@@ -1,0 +1,57 @@
+ModelFarm任务领取内容:
+{
+    "data": {
+        "currentWorkingData": [],
+        "dataType": {
+            "attributes": [],
+            "config": [],
+            "coverUrl": null,
+            "createTime": "2018-05-31 18:04:25",
+            "creator": {
+                "key": "18930"
+            },
+            "dataTypeCategory": null,
+            "dataTypeId": 299,
+            "dataTypeName": "c-url链接地址",
+            "des": "<p>输出数据文件名称：Farm.zip</p>",
+            "dim": 0,
+            "exts": null,
+            "key": 219,
+            "name": "modelFarm",
+            "owner": {
+                "key": "146"
+            }
+        },
+        "defaultDir": "ftp://10.16.20.14/dcpp_0625_1/ModelFarm_2261/b171e8d3-c482-409b-9007-a4fa97723dc9",
+        "inputData": [],
+        "key": "b171e8d3-c482-409b-9007-a4fa97723dc9",
+        "procedureName": "ModelFarm",
+        "requiredResults": 1
+    },
+    "message": "执行成功!",
+    "status": 200,
+    "timestamp": 1529905968558
+}
+ModelFarm任务提交内容:
+[
+    {
+        "consumed": 24,
+        "datas": [
+            {
+                "content": [
+                    "ftp://10.16.20.14/dcpp_0625_1/ModelFarm_2261/b171e8d3-c482-409b-9007-a4fa97723dc9/Farm.zip"
+                ],
+                "label": "ModelFarmSubmit",
+                "workload": 2
+            }
+        ],
+        "description": "ModelFarmSubmit",
+        "taskId": "b171e8d3-c482-409b-9007-a4fa97723dc9",
+        "workload": 100
+    },
+    200
+]
+==============ModelFarm任务执行结束。=================
+
+
+

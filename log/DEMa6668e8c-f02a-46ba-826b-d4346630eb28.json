@@ -1,0 +1,59 @@
+DEM任务领取内容:
+{
+    "data": {
+        "currentWorkingData": [],
+        "dataType": {
+            "attributes": [],
+            "config": [],
+            "coverUrl": null,
+            "createTime": "2018-05-31 18:13:53",
+            "creator": {
+                "key": "18930"
+            },
+            "dataTypeCategory": null,
+            "dataTypeId": 299,
+            "dataTypeName": "c-url链接地址",
+            "des": "<p>输出影像名称必须*_dem.tif</p>",
+            "dim": 0,
+            "exts": null,
+            "key": 225,
+            "name": "dem",
+            "owner": {
+                "key": "146"
+            }
+        },
+        "defaultDir": "ftp://10.16.20.14/dcpp_0625_1/DEM_2240/a6668e8c-f02a-46ba-826b-d4346630eb28",
+        "inputData": [],
+        "key": "a6668e8c-f02a-46ba-826b-d4346630eb28",
+        "procedureName": "DEM",
+        "requiredResults": 1
+    },
+    "message": "执行成功!",
+    "status": 200,
+    "timestamp": 1529905227168
+}
+DEM任务提交内容:
+[
+    {
+        "consumed": 24,
+        "datas": [
+            {
+                "content": [
+                    "ftp://10.16.20.14/dcpp_0625_1/DEM_2240/a6668e8c-f02a-46ba-826b-d4346630eb28/Suzhou_Gaoxinqu_dem.tfw",
+                    "ftp://10.16.20.14/dcpp_0625_1/DEM_2240/a6668e8c-f02a-46ba-826b-d4346630eb28/Suzhou_Gaoxinqu_dem.tif",
+                    "ftp://10.16.20.14/dcpp_0625_1/DEM_2240/a6668e8c-f02a-46ba-826b-d4346630eb28/Suzhou_Gaoxinqu_dem.tif.ovr"
+                ],
+                "label": "DEMSubmit",
+                "workload": 2
+            }
+        ],
+        "description": "DEMSubmit",
+        "taskId": "a6668e8c-f02a-46ba-826b-d4346630eb28",
+        "workload": 100
+    },
+    200
+]
+==============DEM任务执行结束。=================
+
+
+

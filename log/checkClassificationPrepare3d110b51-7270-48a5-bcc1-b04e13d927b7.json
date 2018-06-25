@@ -1,0 +1,78 @@
+checkClassificationPrepare任务领取内容:
+{
+    "data": {
+        "currentWorkingData": [],
+        "dataType": {
+            "attributes": [],
+            "config": [
+                {
+                    "key": "level-id-name",
+                    "value": "1:1:细化程度不够"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "1:2:图斑与实际地物边界不符"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "1:3:属性赋值错误"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "1:4:硬边"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "1:5:其它"
+                }
+            ],
+            "coverUrl": null,
+            "createTime": "2018-06-06 09:18:07",
+            "creator": {
+                "key": "18930"
+            },
+            "dataTypeCategory": null,
+            "dataTypeId": 308,
+            "dataTypeName": "Classification",
+            "des": "",
+            "dim": 0,
+            "exts": null,
+            "key": 249,
+            "name": "CheckClassification-Landuse",
+            "owner": {
+                "key": "146"
+            }
+        },
+        "defaultDir": "ftp://10.16.20.14/dcpp_0625_1/checkClassificationPrepare_2263/3d110b51-7270-48a5-bcc1-b04e13d927b7",
+        "inputData": [],
+        "key": "3d110b51-7270-48a5-bcc1-b04e13d927b7",
+        "procedureName": "checkClassificationPrepare",
+        "requiredResults": 1
+    },
+    "message": "执行成功!",
+    "status": 200,
+    "timestamp": 1529906440685
+}
+checkClassificationPrepare任务提交内容:
+[
+    {
+        "consumed": 24,
+        "datas": [
+            {
+                "content": [
+                    "checkClassification"
+                ],
+                "label": "checkClassificationSubmit",
+                "workload": 2
+            }
+        ],
+        "description": "checkClassificationSubmit",
+        "taskId": "3d110b51-7270-48a5-bcc1-b04e13d927b7",
+        "workload": 100
+    },
+    200
+]
+==============checkClassificationPrepare任务执行结束。=================
+
+
+

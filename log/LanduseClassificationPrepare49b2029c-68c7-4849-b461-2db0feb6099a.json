@@ -1,0 +1,398 @@
+LanduseClassificationPrepare任务领取内容:
+{
+    "data": {
+        "currentWorkingData": [],
+        "dataType": {
+            "attributes": [],
+            "config": [
+                {
+                    "key": "level-id-name",
+                    "value": "1:01:耕地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0101:水田"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0102:水浇地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0103:旱地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "1:02:园地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0201:果园"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0202:茶园"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0203:橡胶园"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0204:其它园地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "1:03:林地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0301:乔木林地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0302:竹林地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0303:红树林"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0304:森林沼泽"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0305:灌木林地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0306:灌丛沼泽"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0307:其它林地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "1:04:草地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0401:天然牧草地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0402:沼泽草地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0403:人工牧草地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0404:其它草地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "1:05:商服用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0501:零售商业用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0502:批发市场用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0503:餐饮用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0504:旅馆用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0505:商务金融用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0506:娱乐用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0507:其它商服用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "1:06:工矿仓储用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0601:工业用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0602:采矿用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0603:盐田"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0604:仓储用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "1:07:住宅用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0701:城镇住宅用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0702:农村宅基地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "1:08:公共管理与公共服务用地"
+                },
+                {
+                    "key": "  level-id-name",
+                    "value": "2:0801:机关团体用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0802:新闻出版用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0803:教育用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0804:科研用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0805:医疗卫生用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0806:社会福利用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0807:文化设施用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0808:体育用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0809:公共设施用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0810:公园与绿地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "1:09:特殊用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0901:军事设施用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0902:使领馆用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0903:监教场所用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0904:宗教用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0905:殡葬用地"
+                },
+                {
+                    "key": "level-id-name",
+                    "value": "2:0906:风景名胜设施用地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "1:10:交通运输用地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1001:铁路用地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1002:轨道交通用地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1003:公路用地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1004:城镇村道路用地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1005:交通服务场站用地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1006:农村道路"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1007:机场用地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1007:机场用地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1009:管道运输用地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "1:11:水域及水利设施用地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1101:河流水面"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1102:湖泊水面"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1103:水库水面"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1104:坑塘水面"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1105:沿海滩涂"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1106:内陆滩涂"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1107:沟渠"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1108:沼泽地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1109:水工建筑用地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1110:冰川及永久积雪"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "1:12:其它土地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1201:空闲地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1202:设施农用地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1203:田坎"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1204:盐碱地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1205:沙地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1206:裸土地"
+                },
+                {
+                    "key": " level-id-name",
+                    "value": "2:1207:裸岩石砾地"
+                }
+            ],
+            "coverUrl": null,
+            "createTime": "2018-06-06 09:12:13",
+            "creator": {
+                "key": "18930"
+            },
+            "dataTypeCategory": null,
+            "dataTypeId": 308,
+            "dataTypeName": "Classification",
+            "des": "",
+            "dim": 0,
+            "exts": null,
+            "key": 248,
+            "name": "LanduseClassification",
+            "owner": {
+                "key": "146"
+            }
+        },
+        "defaultDir": "ftp://10.16.20.14/dcpp_0625_1/LanduseClassificationPrepare_2262/49b2029c-68c7-4849-b461-2db0feb6099a",
+        "inputData": [],
+        "key": "49b2029c-68c7-4849-b461-2db0feb6099a",
+        "procedureName": "LanduseClassificationPrepare",
+        "requiredResults": 1
+    },
+    "message": "执行成功!",
+    "status": 200,
+    "timestamp": 1529906409221
+}
+LanduseClassificationPrepare任务提交内容:
+[
+    {
+        "consumed": 24,
+        "datas": [
+            {
+                "content": [
+                    "LanduseClassification"
+                ],
+                "label": "LanduseClassificationSubmit",
+                "workload": 2
+            }
+        ],
+        "description": "LanduseClassificationSubmit",
+        "taskId": "49b2029c-68c7-4849-b461-2db0feb6099a",
+        "workload": 100
+    },
+    200
+]
+==============LanduseClassificationPrepare任务执行结束。=================
+
+
+

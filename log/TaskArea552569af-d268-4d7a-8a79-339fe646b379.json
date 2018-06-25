@@ -1,0 +1,62 @@
+TaskArea任务领取内容:
+{
+    "data": {
+        "currentWorkingData": [],
+        "dataType": {
+            "attributes": [],
+            "config": [],
+            "coverUrl": null,
+            "createTime": "2018-05-31 18:14:41",
+            "creator": {
+                "key": "18930"
+            },
+            "dataTypeCategory": null,
+            "dataTypeId": 299,
+            "dataTypeName": "c-url链接地址",
+            "des": "<p>输出文件名称：*_taskArea.shp</p>",
+            "dim": 0,
+            "exts": null,
+            "key": 226,
+            "name": "taskArea",
+            "owner": {
+                "key": "146"
+            }
+        },
+        "defaultDir": "ftp://10.16.20.14/dcpp_0625_1/TaskArea_2244/552569af-d268-4d7a-8a79-339fe646b379",
+        "inputData": [],
+        "key": "552569af-d268-4d7a-8a79-339fe646b379",
+        "procedureName": "TaskArea",
+        "requiredResults": 1
+    },
+    "message": "执行成功!",
+    "status": 200,
+    "timestamp": 1529906312717
+}
+TaskArea任务提交内容:
+[
+    {
+        "consumed": 24,
+        "datas": [
+            {
+                "content": [
+                    "ftp://10.16.20.14/dcpp_0625_1/TaskArea_2244/552569af-d268-4d7a-8a79-339fe646b379/Suzhou_Gaoxinqu_taskArea.dbf",
+                    "ftp://10.16.20.14/dcpp_0625_1/TaskArea_2244/552569af-d268-4d7a-8a79-339fe646b379/Suzhou_Gaoxinqu_taskArea.prj",
+                    "ftp://10.16.20.14/dcpp_0625_1/TaskArea_2244/552569af-d268-4d7a-8a79-339fe646b379/Suzhou_Gaoxinqu_taskArea.sbn",
+                    "ftp://10.16.20.14/dcpp_0625_1/TaskArea_2244/552569af-d268-4d7a-8a79-339fe646b379/Suzhou_Gaoxinqu_taskArea.sbx",
+                    "ftp://10.16.20.14/dcpp_0625_1/TaskArea_2244/552569af-d268-4d7a-8a79-339fe646b379/Suzhou_Gaoxinqu_taskArea.shp",
+                    "ftp://10.16.20.14/dcpp_0625_1/TaskArea_2244/552569af-d268-4d7a-8a79-339fe646b379/Suzhou_Gaoxinqu_taskArea.shx"
+                ],
+                "label": "TaskAreaSubmit",
+                "workload": 2
+            }
+        ],
+        "description": "TaskAreaSubmit",
+        "taskId": "552569af-d268-4d7a-8a79-339fe646b379",
+        "workload": 100
+    },
+    200
+]
+==============TaskArea任务执行结束。=================
+
+
+

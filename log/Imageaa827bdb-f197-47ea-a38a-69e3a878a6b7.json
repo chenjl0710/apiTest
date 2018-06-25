@@ -1,0 +1,57 @@
+Image任务领取内容:
+{
+    "data": {
+        "currentWorkingData": [],
+        "dataType": {
+            "attributes": [],
+            "config": [],
+            "coverUrl": null,
+            "createTime": "2018-05-31 18:12:47",
+            "creator": {
+                "key": "18930"
+            },
+            "dataTypeCategory": null,
+            "dataTypeId": 299,
+            "dataTypeName": "c-url链接地址",
+            "des": "<p>输出影像名称必须*_image.tif</p><p><br></p>",
+            "dim": 0,
+            "exts": null,
+            "key": 224,
+            "name": "image",
+            "owner": {
+                "key": "146"
+            }
+        },
+        "defaultDir": "ftp://10.16.20.14/dcpp_0625_1/Image_2242/aa827bdb-f197-47ea-a38a-69e3a878a6b7",
+        "inputData": [],
+        "key": "aa827bdb-f197-47ea-a38a-69e3a878a6b7",
+        "procedureName": "Image",
+        "requiredResults": 1
+    },
+    "message": "执行成功!",
+    "status": 200,
+    "timestamp": 1529905538809
+}
+Image任务提交内容:
+[
+    {
+        "consumed": 24,
+        "datas": [
+            {
+                "content": [
+                    "ftp://10.16.20.14/dcpp_0625_1/Image_2242/aa827bdb-f197-47ea-a38a-69e3a878a6b7/Suzhou_Gaoxinqu_image.tif"
+                ],
+                "label": "ImageSubmit",
+                "workload": 2
+            }
+        ],
+        "description": "ImageSubmit",
+        "taskId": "aa827bdb-f197-47ea-a38a-69e3a878a6b7",
+        "workload": 100
+    },
+    200
+]
+==============Image任务执行结束。=================
+
+
+

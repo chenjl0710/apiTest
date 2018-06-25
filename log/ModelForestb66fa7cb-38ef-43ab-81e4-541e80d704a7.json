@@ -1,0 +1,57 @@
+ModelForest任务领取内容:
+{
+    "data": {
+        "currentWorkingData": [],
+        "dataType": {
+            "attributes": [],
+            "config": [],
+            "coverUrl": null,
+            "createTime": "2018-05-31 18:10:09",
+            "creator": {
+                "key": "18930"
+            },
+            "dataTypeCategory": null,
+            "dataTypeId": 299,
+            "dataTypeName": "c-url链接地址",
+            "des": "<p>输出数据文件名称：Forest.zip</p>",
+            "dim": 0,
+            "exts": null,
+            "key": 222,
+            "name": "modelForest",
+            "owner": {
+                "key": "146"
+            }
+        },
+        "defaultDir": "ftp://10.16.20.14/dcpp_0625_1/ModelForest_2241/b66fa7cb-38ef-43ab-81e4-541e80d704a7",
+        "inputData": [],
+        "key": "b66fa7cb-38ef-43ab-81e4-541e80d704a7",
+        "procedureName": "ModelForest",
+        "requiredResults": 1
+    },
+    "message": "执行成功!",
+    "status": 200,
+    "timestamp": 1529906081031
+}
+ModelForest任务提交内容:
+[
+    {
+        "consumed": 24,
+        "datas": [
+            {
+                "content": [
+                    "ftp://10.16.20.14/dcpp_0625_1/ModelForest_2241/b66fa7cb-38ef-43ab-81e4-541e80d704a7/Forest.zip"
+                ],
+                "label": "ModelForestSubmit",
+                "workload": 2
+            }
+        ],
+        "description": "ModelForestSubmit",
+        "taskId": "b66fa7cb-38ef-43ab-81e4-541e80d704a7",
+        "workload": 100
+    },
+    200
+]
+==============ModelForest任务执行结束。=================
+
+
+
